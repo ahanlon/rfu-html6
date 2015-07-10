@@ -1,0 +1,21 @@
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+.top {
+	background-color: black;
+	color: silver;
+}
+
+.top-name {
+	text-decoration: none;
+}
+
+.form-inline {
+	float: right;
+}
+
+.main-jumbotron {
+	background-color: silver;
+}
